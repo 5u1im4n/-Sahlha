@@ -1,3 +1,7 @@
+⚠️ This project is currently under restructuring.
+
+Sahlha is being redesigned to focus on guided government service journeys for citizens in Oman.
+
 # سَهِّلْها | Sahlha
 
 بوابة الوصول السريع إلى روابط الجهات الحكومية في سلطنة عُمان 🇴🇲
@@ -31,3 +35,4 @@ https://sahlha.netlify.app/
 
 ## ⚠️ تنويه
 هذا المشروع غير تابع لأي جهة حكومية رسمية.
+
